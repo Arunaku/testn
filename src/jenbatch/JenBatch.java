@@ -7,5 +7,6 @@ public class JenBatch {
   public void f() {
 	  System.out.println("Jenkins window batch testing");
 	  System.out.println("added");
+	  System.out.println("added again");
   }
 }
